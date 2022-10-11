@@ -2,6 +2,7 @@ let r, g, b, x, y;
 let width = 600;
 let height = 800;
 let margin = 50;
+//test 1
 
 let palletes = {
   1: { 
