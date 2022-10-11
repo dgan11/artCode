@@ -4,6 +4,7 @@ let height = 800;
 let margin = 50;
 //test 1
 //test 2
+//test 3
 
 let palletes = {
   1: { 
